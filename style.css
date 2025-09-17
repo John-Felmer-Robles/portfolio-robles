@@ -55,6 +55,7 @@ body {
     font-size: 1.2rem;
     color: #f4f4f4;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .cta-btn {
@@ -71,6 +72,23 @@ body {
 
 .cta-btn:hover {
     background-color: #ffb700;
+}
+
+.cv-btn {
+    background-color: #ffd700;
+    color: #222 !important;
+    border-radius: 20px;
+    padding: 8px 18px;
+    margin-left: 1rem;
+    font-weight: bold;
+    transition: background 0.2s;
+    border: none;
+    text-decoration: none;
+}
+
+.cv-btn:hover {
+    background-color: #ffb700;
+    color: #fff !important;
 }
 
 .section {
