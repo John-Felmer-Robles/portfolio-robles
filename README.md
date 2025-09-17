@@ -1,0 +1,1 @@
+This project is my website portfolio featuring learned skills, proficiencies, academic background.
